@@ -1,0 +1,4 @@
+rootProject.name = 'DataStructureAndAlgorithms'
+include 'src:untitled'
+findProject(':src:untitled')?.name = 'untitled'
+
