@@ -1,4 +1,4 @@
-package DSAAlgoritham.SinglyLinkedList;
+package dataStructure.linkedList.linkedListimplementation.SinglyLinkedList;
 
 public class EmployeeSinglyMain {
 

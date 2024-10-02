@@ -1,4 +1,4 @@
-package DSAAlgoritham;
+package algorithm.sort;
 
 public class PersonDsa {
     String name;

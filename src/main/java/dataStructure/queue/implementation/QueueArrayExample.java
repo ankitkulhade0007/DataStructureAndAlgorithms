@@ -1,4 +1,4 @@
-package DSAAlgoritham.StackQueueTreeGraph;
+package dataStructure.queue.implementation;
 
 public class QueueArrayExample {
     public static void main(String[] args) {

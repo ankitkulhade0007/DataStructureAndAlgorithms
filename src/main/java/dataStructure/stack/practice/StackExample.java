@@ -1,9 +1,8 @@
-package DSAAlgoritham.StackQueueTreeGraph;
+package dataStructure.stack.practice;
 
 import java.util.Stack;
 
 public class StackExample {
-
 
     public static void main(String[] args) {
         String s = "{()}[]";

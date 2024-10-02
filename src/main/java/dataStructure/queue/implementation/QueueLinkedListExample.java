@@ -1,4 +1,4 @@
-package DSAAlgoritham.StackQueueTreeGraph;
+package dataStructure.queue.implementation;
 
 public class QueueLinkedListExample {
 

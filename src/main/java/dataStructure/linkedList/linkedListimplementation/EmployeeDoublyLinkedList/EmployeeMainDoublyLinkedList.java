@@ -1,6 +1,6 @@
-package DSAAlgoritham.EmployeeDoublyLinkedList;
+package dataStructure.linkedList.linkedListimplementation.EmployeeDoublyLinkedList;
 
-import DSAAlgoritham.SinglyLinkedList.Employee;
+import dataStructure.linkedList.linkedListimplementation.SinglyLinkedList.Employee;
 
 public class EmployeeMainDoublyLinkedList {
 
