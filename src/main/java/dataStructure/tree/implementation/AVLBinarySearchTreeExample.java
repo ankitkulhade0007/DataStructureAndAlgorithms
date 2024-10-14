@@ -2,7 +2,7 @@ package dataStructure.tree.implementation;
 
 import java.util.Scanner;
 
-public class AVLT {
+public class AVLBinarySearchTreeExample {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         AVLTree tree = new AVLTree();
